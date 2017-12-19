@@ -1,0 +1,24 @@
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tetris.exe.config
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tetris.exe
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tetris.pdb
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Form1.resources
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Menu.resources
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Rules.resources
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.exe
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.pdb
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Ranking.resources
+C:\Users\gvashakidze\Desktop\New folder\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tetris.exe.config
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.exe
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Form1.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Menu.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.Rules.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tetris.exe
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tetris.pdb
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.pdb
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Tetris.How.resources

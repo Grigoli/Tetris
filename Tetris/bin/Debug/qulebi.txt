@@ -1,0 +1,14 @@
+System.IO.FileStream
+0
+100
+0
+Giga
+0
+Gigili
+0
+Gio
+0
+gili
+0
+Gialo
+0

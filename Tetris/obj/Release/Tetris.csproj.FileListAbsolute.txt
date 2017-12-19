@@ -1,0 +1,11 @@
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Tetris.exe.config
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Tetris.exe
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Tetris.pdb
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.Form1.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.How.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.Menu.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.Rules.resources
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.exe
+C:\Users\gvashakidze\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Tetris.pdb
